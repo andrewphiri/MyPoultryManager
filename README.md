@@ -1,7 +1,7 @@
 # MyPoultryManager
 Privacy Policy for My Poultry Manager
 
-Effective Date: [Insert Date]
+Effective Date: 7th July, 2025
 
 My Poultry Manager (“we”, “our”, or “us”) respects your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our app.
 
